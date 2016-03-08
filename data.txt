@@ -1,0 +1,15 @@
+
+Name: Al
+Phone: 6123258594
+Address: 
+Comments: 
+
+Name: Greg
+Phone: 9521231234
+Address: 1324 Main Street
+Comments: 
+
+Name: Bill
+Phone: 7639874343
+Address: 14 Central Way
+Comments: Classmate
