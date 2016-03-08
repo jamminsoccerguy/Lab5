@@ -12,6 +12,10 @@ import java.io.File;
  * Date: 2/23/2016
  * Class: CSCI 1933-12
  */
+
+/**
+ * Lab 5: Steps 2-5
+ */
 public class ContactList {
 
     //instance variable

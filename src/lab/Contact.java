@@ -5,6 +5,10 @@ package lab;
  * Date: 2/23/2016
  * Class: CSCI 1933-12
  */
+
+/**
+ * Lab 5: Step 1: Build a Contact Class
+ */
 public class Contact {
 
     //private instance variables
